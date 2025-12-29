@@ -8,7 +8,7 @@
 
 プラットフォーム: PC (Windows)
 
-制作範囲: プログラム、全グラフィック（キャラ・背景）、BGM等制作
+制作範囲: プログラム、全グラフィック（キャラ・背景・UI）、BGM等制作
 
 効果音：効果音ラボ様 https://soundeffect-lab.info/
 
@@ -47,3 +47,8 @@
 ジャンプ: Z キー
 
 攻撃: X キー
+
+## デモ動画
+
+https://github.com/user-attachments/assets/f83e3adb-95e0-4bc6-9e62-0a1a4e450a3f
+
