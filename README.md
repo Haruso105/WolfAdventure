@@ -12,6 +12,9 @@
 
 効果音：効果音ラボ様 https://soundeffect-lab.info/
 
+## デモ動画
+https://github.com/user-attachments/assets/f83e3adb-95e0-4bc6-9e62-0a1a4e450a3f
+
 ## 開発環境
 言語: C#
 
@@ -47,8 +50,4 @@
 ジャンプ: Z キー
 
 攻撃: X キー
-
-## デモ動画
-
-https://github.com/user-attachments/assets/f83e3adb-95e0-4bc6-9e62-0a1a4e450a3f
 
